@@ -1,6 +1,6 @@
 **Paper: Deduction under Perturbed Evidence: Probing Student Simulation Capabilities of Large Language Models** 
 
-You can find the paper [here](https://arxiv.org/abs/2305.14507).
+You can find the arxiv version [here](https://arxiv.org/abs/2305.14507) and AIED version [here](https://ceur-ws.org/Vol-3487/short4.pdf).
 
 DUPEd  StrategyQA can be found [here](https://huggingface.co/datasets/luffycodes/DUPEd_StrategyQA).
 
